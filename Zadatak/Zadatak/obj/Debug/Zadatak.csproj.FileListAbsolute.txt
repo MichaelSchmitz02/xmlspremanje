@@ -1,0 +1,10 @@
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.AssemblyReference.cache
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\obj\Debug\Zadatak.Form1.resources
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Učenik\Desktop\Sortiranje-Vozila-main\Sortiranje-vozila\Zadatak\Zadatak\obj\Debug\Zadatak.pdb

@@ -1,0 +1,28 @@
+<Catalog>
+  <Car id="Gallardo">
+    <Marka>Lamborghini</Marka>
+    <Model>Gallardo</Model>
+    <Godina>2011</Godina>
+    <Kilometraza>78000</Kilometraza>
+  </Car>
+  <Car id="P1">
+    <Marka>McLaren</Marka>
+    <Model>P1</Model>
+    <Godina>2016</Godina>
+    <Kilometraza>54000</Kilometraza>
+  </Car>
+  <Car id="488">
+    <Marka>Ferrari</Marka>
+    <Model>488 Pista</Model>
+    <Godina>2020</Godina>
+    <Kilometraza>23000</Kilometraza>
+  </Car>
+  <Car id="AMG">
+    <Marka>Mercedes</Marka>
+    <Model>AMG GT63s</Model>
+    <Godina>2024</Godina>
+    <Kilometraza>100</Kilometraza>
+  </Car>
+
+
+</Catalog>
